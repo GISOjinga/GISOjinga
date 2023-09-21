@@ -1,4 +1,6 @@
-![Your GIF Description](./img/Banner.mp4)
+<video width="320" height="240" controls>
+  <source src="./img/Banner.mp4">
+</video>
 
 
 # Hi there, I'm [Ojinga] - aka [GISOjinga][GitHub] 👋
