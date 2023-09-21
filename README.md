@@ -1,4 +1,4 @@
-<img width=100% src="https://i.imgur.com/1I5eV8z.gif"/>
+<img width=100% src="https://i.imgur.com/DqjxCZH.gif"/>
 
 # Hi there, I'm [Ojinga] - aka [GISOjinga][GitHub] 👋
 
