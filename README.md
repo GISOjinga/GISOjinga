@@ -1,3 +1,6 @@
+![Your GIF Description](./img/Banner.mp4)
+
+
 # Hi there, I'm [Ojinga] - aka [GISOjinga][GitHub] 👋
 
 ## I'm a Coder, Developer, and Life-Long Learner!!
