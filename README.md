@@ -1,5 +1,5 @@
 <video width="320" height="240" controls>
-  <source src="./img/Banner.mp4">
+  <source src="https://github.com/GISOjinga/GISOjinga/blob/main/img/Banner.mp4" type="video/mp4">
 </video>
 
 
