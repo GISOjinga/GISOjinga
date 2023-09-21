@@ -1,5 +1,4 @@
-[![Click here to watch the video](https://github.com/GISOjinga/GISOjinga/blob/main/img/thumbnail.jpg)](https://github.com/GISOjinga/GISOjinga/blob/main/img/Banner.mp4)
-
+![Your GIF Description](https://i.imgur.com/WUPReyH.gif)
 
 
 # Hi there, I'm [Ojinga] - aka [GISOjinga][GitHub] 👋
