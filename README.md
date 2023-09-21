@@ -1,7 +1,5 @@
-<video width="320" height="240" controls>
-  hi
-  <source src="https://github.com/GISOjinga/GISOjinga/blob/main/img/Banner.mp4" type="video/mp4">
-</video>
+[![Click here to watch the video](https://github.com/GISOjinga/GISOjinga/blob/main/img/thumbnail.jpg)](https://github.com/GISOjinga/GISOjinga/blob/main/img/Banner.mp4)
+
 
 
 # Hi there, I'm [Ojinga] - aka [GISOjinga][GitHub] 👋
