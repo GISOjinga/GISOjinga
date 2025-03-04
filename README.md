@@ -1,6 +1,6 @@
 <img width=100% src="https://i.imgur.com/DqjxCZH.gif"/>
 
-# Hi there, I'm [Ojinga] - aka [GISJinga][GitHub] 👋
+# Hi there, I'm [Ojinga] - aka [GISOjinga][GitHub] 👋
 
 ## I'm a Coder, Developer, and Life-Long Learner!!
 
